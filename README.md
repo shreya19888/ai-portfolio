@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 AI Portfolio
 
-## Getting Started
+Welcome! I'm **Shreya Chakrabarti**, an AI Engineer passionate about building intelligent systems that solve real-world problems.
 
-First, run the development server:
+This repository powers my personal AI portfolio—a living showcase of production-ready AI agents, enterprise AI applications, technical case studies, and everything I'm learning as I build in public.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 What You'll Find Here
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* 🤖 AI Agents
+* 🏢 Enterprise AI Projects
+* 📚 Technical Case Studies
+* ✍️ Engineering Blog
+* 🏗️ System Architecture Diagrams
+* 🚀 Live Demos
+* 📈 My **100 Days • 100 AI Agents** Challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Mission
 
-To learn more about Next.js, take a look at the following resources:
+I believe the best way to learn AI engineering is by building.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This portfolio documents my journey of designing, developing, and deploying practical AI systems—from intelligent assistants and autonomous workflows to enterprise-grade applications and experimental prototypes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+My goal is to create software that is:
 
-## Deploy on Vercel
+* Practical
+* Production-inspired
+* Well-engineered
+* Open to learn from
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Technology Stack
+
+### AI & Machine Learning
+
+* OpenAI
+* Anthropic
+* LangGraph
+* Model Context Protocol (MCP)
+* Retrieval-Augmented Generation (RAG)
+
+### Backend
+
+* Python
+* FastAPI
+* Docker
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### Cloud & DevOps
+
+* GitHub Actions
+* Vercel
+* Azure (selected projects)
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+* 🧭 Career Pathing Agent
+* 💰 Salary Benchmark Agent
+* 🐦 Smart Bird Feeder AI
+* 🌍 AI Climate Operating System
+* 📊 Executive Talent Dashboard
+
+---
+
+## 📅 Current Challenge
+
+# 100 Days • 100 AI Agents
+
+Building one production-ready AI agent every day while documenting the architecture, implementation, lessons learned, and code.
+
+Follow the challenge here:
+
+➡️ **100-days-100-agents**
+
+---
+
+## ✍️ What I Write About
+
+* AI Engineering
+* Agentic AI
+* Multi-Agent Systems
+* LLM Applications
+* Prompt Engineering
+* MCP
+* LangGraph
+* Enterprise AI
+* AI Product Design
+* Building in Public
+
+---
+
+## 📌 Philosophy
+
+> Learn by building. Share by teaching. Improve through iteration.
+
+Every project in this portfolio represents a step toward becoming a stronger AI engineer and creating software that has meaningful real-world impact.
+
+---
+
+## 🤝 Connect
+
+If you're interested in AI engineering, enterprise AI, or building practical AI systems, I'd love to connect.
+
+⭐ If you enjoy the projects, consider following the journey as I build one AI agent at a time.
