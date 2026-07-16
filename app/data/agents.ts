@@ -15,7 +15,7 @@ export const agents = [
     ],
     github:
       "https://github.com/shreya19888/100-days-100-agents/tree/master/day-001-clinical-note-structuring",
-    demo: "https://100-days-100-agents-azure.vercel.app",
+    demo: "https://clinical-note-structuring.vercel.app/",
     featured: true,
   },
 ];
