@@ -1,118 +1,83 @@
 # 🚀 AI Portfolio
 
-Welcome! I'm **Shreya Chakrabarti**, an AI Engineer passionate about building intelligent systems that solve real-world problems.
+Hi! I'm **Shreya Chakrabarti**, an AI Engineer building production-ready AI applications, autonomous agents, and enterprise AI solutions.
 
-This repository powers my personal AI portfolio—a living showcase of production-ready AI agents, enterprise AI applications, technical case studies, and everything I'm learning as I build in public.
+This repository powers my personal portfolio, where I document everything I build, learn, and deploy.
 
----
-
-## 🌟 What You'll Find Here
-
-* 🤖 AI Agents
-* 🏢 Enterprise AI Projects
-* 📚 Technical Case Studies
-* ✍️ Engineering Blog
-* 🏗️ System Architecture Diagrams
-* 🚀 Live Demos
-* 📈 My **100 Days • 100 AI Agents** Challenge
+🌐 **Portfolio:** https://shreyachakrabarti.ai
 
 ---
 
-## 🎯 Mission
+# 🎯 Current Mission
 
-I believe the best way to learn AI engineering is by building.
+## 100 Days • 100 AI Agents
 
-This portfolio documents my journey of designing, developing, and deploying practical AI systems—from intelligent assistants and autonomous workflows to enterprise-grade applications and experimental prototypes.
+I'm building **100 production-ready AI agents in 100 days**, solving real-world problems across healthcare, HR, finance, climate, education, and enterprise operations.
 
-My goal is to create software that is:
+Every agent includes:
 
-* Practical
-* Production-inspired
-* Well-engineered
-* Open to learn from
+- ✅ Source code
+- ✅ Live demo
+- ✅ Architecture
+- ✅ Technical documentation
+- ✅ Lessons learned
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 Agents
 
-### AI & Machine Learning
+| Day | Agent | Industry | Demo | Code |
+|-----|-------|----------|------|------|
+| 001 | Clinical Note Structuring Assistant | Healthcare | https://clinical-note-structuring.vercel.app | https://github.com/shreya19888/100-days-100-agents/tree/master/day-001-clinical-note-structuring |
 
-* OpenAI
-* Anthropic
-* LangGraph
-* Model Context Protocol (MCP)
-* Retrieval-Augmented Generation (RAG)
+More agents coming daily...
+
+---
+
+# 🌟 Portfolio Includes
+
+- 🤖 AI Agents
+- 🏢 Enterprise AI Applications
+- 📚 Technical Case Studies
+- 🏗️ System Design & Architecture
+- ✍️ Engineering Notes
+- 🚀 Live Demos
+
+---
+
+# 🛠️ Tech Stack
+
+### AI
+
+- OpenAI
+- Anthropic
+- LangGraph
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
 
 ### Backend
 
-* Python
-* FastAPI
-* Docker
+- Python
+- FastAPI
+- Docker
 
 ### Frontend
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-### Cloud & DevOps
+### Cloud
 
-* GitHub Actions
-* Vercel
-* Azure (selected projects)
-
----
-
-## 🚀 Featured Projects
-
-Coming soon...
-
-* 🧭 Career Pathing Agent
-* 💰 Salary Benchmark Agent
-* 🐦 Smart Bird Feeder AI
-* 🌍 AI Climate Operating System
-* 📊 Executive Talent Dashboard
+- Vercel
+- Azure
+- GitHub Actions
 
 ---
 
-## 📅 Current Challenge
-
-# 100 Days • 100 AI Agents
-
-Building one production-ready AI agent every day while documenting the architecture, implementation, lessons learned, and code.
-
-Follow the challenge here:
-
-➡️ **100-days-100-agents**
-
----
-
-## ✍️ What I Write About
-
-* AI Engineering
-* Agentic AI
-* Multi-Agent Systems
-* LLM Applications
-* Prompt Engineering
-* MCP
-* LangGraph
-* Enterprise AI
-* AI Product Design
-* Building in Public
-
----
-
-## 📌 Philosophy
+# 📌 Philosophy
 
 > Learn by building. Share by teaching. Improve through iteration.
 
-Every project in this portfolio represents a step toward becoming a stronger AI engineer and creating software that has meaningful real-world impact.
-
----
-
-## 🤝 Connect
-
-If you're interested in AI engineering, enterprise AI, or building practical AI systems, I'd love to connect.
-
-⭐ If you enjoy the projects, consider following the journey as I build one AI agent at a time.
+Every project in this portfolio is built to solve a real problem while helping me become a stronger AI engineer.
