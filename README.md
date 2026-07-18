@@ -26,9 +26,11 @@ Every agent includes:
 
 ## 🚀 Agents
 
-| Day | Agent | Industry | Demo | Code |
-|-----|-------|----------|------|------|
-| 001 | Clinical Note Structuring Assistant | Healthcare | https://clinical-note-structuring.vercel.app | https://github.com/shreya19888/100-days-100-agents/tree/master/day-001-clinical-note-structuring |
+| Day | Date | Agent | Category | Industry | Status | Demo |
+|------|-------------|---------------------------------------|----------------------|------------------------|----------|--------------------------------------------------------------|
+| 001 | Jul 16, 2026 | Clinical Note Structuring Assistant | Healthcare AI | Healthcare | ✅ Live | 🌐 https://clinical-note-structuring.vercel.app |
+| 002 | Jul 17, 2026 | Climate Pulse AI | Climate AI | Environmental Health | ✅ Live | 🌐 https://climate-pulse-ai-three.vercel.app |
+| 003 | Jul 18, 2026 | PolicyLens AI | Agentic RAG | Human Resources | ✅ Live | 🌐 https://policylensai-chi.vercel.app |
 
 More agents coming daily...
 

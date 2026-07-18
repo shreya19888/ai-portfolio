@@ -15,13 +15,16 @@ export default function Home() {
             problems.
           </h1>
 
-          <p className="mt-6 max-w-2xl text-lg text-zinc-400">
-            Hi, I'm Shreya. I'm documenting my journey of building 100
-            production-ready AI agents across healthcare, HR, finance, climate,
-            and enterprise AI—one project at a time.
+          <p className="mt-6 max-w-3xl text-lg text-zinc-400">
+            Hi, I'm Shreya. I build AI products that solve real business
+            problems. Through my <span className="font-semibold text-white">100
+            Days • 100 AI Agents</span> challenge, I'm building production-ready
+            applications across healthcare, HR, climate, finance, and
+            enterprise AI while exploring agentic workflows, Retrieval-Augmented
+            Generation (RAG), LLMs, and modern AI engineering.
           </p>
 
-          <div className="mt-8 flex gap-4">
+          <div className="mt-8 flex flex-wrap gap-4">
             <a
               href="#projects"
               className="rounded-xl bg-white px-6 py-3 font-medium text-black transition hover:bg-zinc-200"
@@ -37,6 +40,35 @@ export default function Home() {
             >
               GitHub
             </a>
+
+            <a
+              href="https://www.linkedin.com/in/shreya-chakrabarti/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-xl border border-zinc-700 px-6 py-3 transition hover:border-zinc-500"
+            >
+              LinkedIn
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Stats */}
+      <section className="mx-auto max-w-7xl px-8 pb-16">
+        <div className="flex flex-wrap gap-10">
+          <div>
+            <h2 className="text-4xl font-bold">{agents.length}</h2>
+            <p className="text-zinc-400">Projects Built</p>
+          </div>
+
+          <div>
+            <h2 className="text-4xl font-bold">100</h2>
+            <p className="text-zinc-400">Goal</p>
+          </div>
+
+          <div>
+            <h2 className="text-4xl font-bold">AI</h2>
+            <p className="text-zinc-400">Production Ready</p>
           </div>
         </div>
       </section>
@@ -72,9 +104,13 @@ export default function Home() {
                   {agent.industry}
                 </span>
 
-                <span className="text-sm text-zinc-500">
-                  Agent #{agent.id}
+                <span className="rounded-full bg-green-500/20 px-3 py-1 text-xs font-medium text-green-400">
+                  {agent.status}
                 </span>
+              </div>
+
+              <div className="mb-2 text-sm text-zinc-500">
+                Day {agent.day}
               </div>
 
               <h3 className="text-2xl font-bold">
@@ -119,6 +155,18 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      {/* Footer */}
+      <footer className="border-t border-zinc-800 py-10 text-center text-zinc-500">
+        <p>
+          Built with Next.js, TypeScript, OpenAI, LangChain, and a passion for
+          solving real-world problems with AI.
+        </p>
+
+        <p className="mt-2">
+          © {new Date().getFullYear()} Shreya Chakrabarti
+        </p>
+      </footer>
     </main>
   );
 }
