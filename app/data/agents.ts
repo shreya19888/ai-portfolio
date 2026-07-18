@@ -35,4 +35,23 @@ export const agents = [
   github:
     "https://github.com/shreya19888/100-days-100-agents/tree/master/day-002-climate-pulse",
 },
+{
+  title: "PolicyLens AI",
+  day: "Day 003",
+  description:
+    "A multilingual agentic RAG platform that helps employees find accurate answers from global HR policies, benefits, and compliance documents using semantic search and grounded AI responses.",
+  technologies: [
+    "Next.js",
+    "TypeScript",
+    "OpenAI",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+  ],
+  github:
+    "https://github.com/shreya19888/100-days-100-agents/tree/master/day-003-policylens-ai",
+  demo: "https://policylensai-chi.vercel.app/",
+  status: "Live",
+  color: "from-indigo-500 to-violet-600",
+},
 ];
