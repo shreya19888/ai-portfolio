@@ -60,4 +60,25 @@ export const agents = [
     demo: "https://policylensai-chi.vercel.app/",
     featured: true,
   },
+  {
+    id: "004",
+    day: 4,
+    title: "Clinical Voice Copilot",
+    tagline:
+      "An AI-powered clinical documentation assistant that converts spoken patient encounters into structured SOAP notes using speech recognition and large language models.",
+    industry: "Healthcare",
+    status: "Live",
+    technologies: [
+      "Next.js",
+      "TypeScript",
+      "Groq Whisper",
+      "Llama 3.3 70B",
+      "Tailwind CSS",
+      "Vercel",
+    ],
+    github:
+      "https://github.com/shreya19888/100-days-100-agents/tree/master/day-004-clinical-voice-copilot",
+    demo: "https://clinical-voice-copilot-sand.vercel.app/",
+    featured: true,
+  },
 ];
