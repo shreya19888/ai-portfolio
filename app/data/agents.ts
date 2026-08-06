@@ -64,7 +64,7 @@ export const agents = [
     day: 5,
     title: "DataPilot AI",
     tagline:
-      "An enterprise data discovery platform that helps engineers understand datasets faster through documentation, lineage, metadata, learning resources, SQL examples and an intelligent enterprise assistant. Built for the DataHub hackathon.",
+      "An enterprise data discovery platform that helps engineers understand datasets faster through documentation, lineage, metadata, learning resources, SQL examples and an intelligent enterprise assistant.",
     industry: "Data Engineering",
     status: "Live",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "OpenAI", "Vercel"],

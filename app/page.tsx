@@ -115,6 +115,17 @@ export default function Home() {
 
               <h3 className="text-2xl font-bold">{agent.title}</h3>
 
+              {agent.hackathon && (
+                <a
+                  href="https://datahub.devpost.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1 rounded-full bg-purple-500/20 px-3 py-1 text-xs font-medium text-purple-300 transition hover:bg-purple-500/30"
+                >
+                  🏆 {agent.hackathon}
+                </a>
+              )}
+
               <p className="mt-3 text-zinc-400">{agent.tagline}</p>
 
               <div className="mt-6 flex flex-wrap gap-2">
