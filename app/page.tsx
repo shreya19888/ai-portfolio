@@ -139,7 +139,7 @@ export default function Home() {
                 <a
                   href={
                     agent.hackathon.toLowerCase().includes("youcam")
-                      ? "https://youcamapi.devpost.com/"
+                      ? "https://youcam-api.devpost.com/"
                       : agent.hackathon.toLowerCase().includes("datahub")
                         ? "https://datahub.devpost.com/"
                         : "#"
