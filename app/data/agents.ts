@@ -73,4 +73,32 @@ export const agents = [
     featured: true,
     hackathon: "DataHub Hackathon (datahub.devpost.com)",
   },
+  {
+    id: "006",
+    day: 6,
+    title: "Project-Atlas-OS",
+    tagline:
+      "An enterprise data discovery platform that helps engineers understand datasets faster through documentation, lineage, metadata, learning resources, SQL examples and an intelligent enterprise assistant.",
+    industry: "Data Engineering",
+    status: "Live",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "OpenAI", "Vercel"],
+    github: "",
+    demo: "",
+    featured: true,
+    hackathon: "Open Atlas - AI for Social Good Hackathon (https://oa-ai-for-social-good.devpost.com)",
+  },
+  {
+    id: "007",
+    day: 7,
+    title: "Charme",
+    tagline:
+      "An AI-powered skin wellness companion combining YouCam Skin AI, OpenAI reasoning, Indian food wisdom, Ayurveda-inspired rituals, and family home remedies.",
+    industry: "Beauty & Wellness",
+    status: "Live",
+    technologies: ["Next.js","TypeScript","Tailwind CSS","OpenAI","YouCam API"],
+    github: "https://github.com/shreya19888/100-days-100-agents/tree/master/day-007-Charme",
+    demo: "https://charme-jz6hci47x-shreyachakrabarti19-2079s-projects.vercel.app/",
+    featured: true,
+    hackathon: "YouCam Hackathon (https://youcam-api.devpost.com/)",
+  },
 ];
