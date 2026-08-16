@@ -1,6 +1,6 @@
 # 🚀 AI Portfolio
 
-Hi! I'm **Shreya Chakrabarti**, an AI Engineer building production-ready AI applications, autonomous agents, and enterprise AI solutions.
+Hi! I'm **Shreya Chakrabarti**, an AI Engineer building production-ready AI applications, agentic systems, and enterprise AI solutions.
 
 This repository powers my personal portfolio, where I document everything I build, learn, and deploy.
 
@@ -12,19 +12,24 @@ This repository powers my personal portfolio, where I document everything I buil
 
 ## 100 Days • 100 AI Agents
 
-I'm building **100 production-ready AI agents in 100 days**, solving real-world problems across healthcare, HR, finance, climate, education, and enterprise operations.
+I'm building **100 production-ready AI agents in 100 days**, solving real-world problems across healthcare, HR, finance, climate, social good, and enterprise operations.
 
-Every agent includes:
+Every agent is designed to move beyond an AI demo and toward a usable product, with:
 
 - ✅ Source code
 - ✅ Live demo
 - ✅ Architecture
 - ✅ Technical documentation
 - ✅ Lessons learned
+- ✅ Real-world workflow
+
+The goal is simple:
+
+> **Build one useful AI system every day. Learn by shipping.**
 
 ---
 
-## 🚀 Agents
+# 🚀 Agents
 
 | Day | Date | Agent | Focus | Industry | Status | Demo |
 |:---:|---|---|---|---|:---:|---|
@@ -32,56 +37,61 @@ Every agent includes:
 | 002 | Jul 17, 2026 | **Climate Pulse AI** | Climate AI | Environmental Health | ✅ Live | 🌐 [Demo](https://climate-pulse-ai-three.vercel.app) |
 | 003 | Jul 18, 2026 | **PolicyLens AI** | Agentic RAG | Human Resources | ✅ Live | 🌐 [Demo](https://policylensai-chi.vercel.app) |
 | 004 | Jul 19, 2026 | **Clinical Voice Copilot** | Voice AI | Healthcare | ✅ Live | 🌐 [Demo](https://clinical-voice-copilot-sand.vercel.app) |
-| 005 | Aug 03, 2026 | **DataPilot AI** | AI Mentor | Data Engineering | ✅ Live | 🌐 [Demo](https://datapilotai-j07o2081f-shreyachakrabarti19-2079s-projects.vercel.app/) |
-| 006 | — | **Project Atlas OS** | AI for Social Good | Social Good | 🚧 Building | Coming Soon |
+| 005 | Aug 03, 2026 | **DataPilot AI** | AI Data Discovery | Data Engineering | ✅ Live | 🌐 [Demo](https://datapilotai-j07o2081f-shreyachakrabarti19-2079s-projects.vercel.app/) |
+| 006 | Aug 14, 2026 | **Community Pilot AI** | Agentic Community Coordination | Social Good | ✅ Live | 🌐 [Demo](https://community-pilot-ai.vercel.app/) |
 | 007 | Aug 10, 2026 | **CHARME** | Skin AI + Wellness | Beauty & Wellness | ✅ Live | 🌐 [Demo](https://charme-jz6hci47x-shreyachakrabarti19-2079s-projects.vercel.app/) |
 
 ---
 
-# 🌟 Portfolio Includes
+# ⭐ Featured Project
 
-- 🤖 AI Agents
-- 🏢 Enterprise AI Applications
-- 📚 Technical Case Studies
-- 🏗️ System Design & Architecture
-- ✍️ Engineering Notes
-- 🚀 Live Demos
+## Community Pilot AI
 
----
+**Community Pilot AI** is an AI-powered community food rescue coordination system built for the **AI for Social Good Hackathon**.
 
-# 🛠️ Tech Stack
+🌐 **Live Demo:** https://community-pilot-ai.vercel.app/  
+🏆 **Hackathon:** https://oa-ai-for-social-good.devpost.com/
 
-### AI
+Community Pilot connects three sides of the food rescue ecosystem:
 
-- OpenAI
-- Anthropic
-- LangGraph
-- Model Context Protocol (MCP)
-- Retrieval-Augmented Generation (RAG)
+**Food Donors → Community Organizations → Volunteers**
 
-### Backend
+Instead of simply displaying information, the system creates an operational loop that helps coordinators determine **what should happen next**.
 
-- Python
-- FastAPI
-- Docker
+### What it does
 
-### Frontend
+Community Pilot matches surplus food with community requests and available volunteers using real-world constraints including:
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+- Geographic proximity
+- Pickup and delivery windows
+- Food quantity
+- Volunteer capacity
+- Dietary requirements
+- Volunteer availability
+- Community need
+- Shelter-system pressure
+- Weather
+- Donation expiration deadlines
 
-### Cloud
+The system can also split a large donation across multiple volunteers when a single volunteer does not have enough capacity.
 
-- Vercel
-- Azure
-- GitHub Actions
+### Agentic workflow
 
----
-
-# 📌 Philosophy
-
-> Learn by building. Share by teaching. Improve through iteration.
-
-Every project in this portfolio is built to solve a real problem while helping me become a stronger AI engineer.
+```text
+Data
+  ↓
+Match
+  ↓
+Coordinator Approval
+  ↓
+Place AI Voice Call
+  ↓
+Accept / Decline / No Answer
+  ↓
+Reassign or Dispatch
+  ↓
+Pickup
+  ↓
+In Transit
+  ↓
+Delivered
