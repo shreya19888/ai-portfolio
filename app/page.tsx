@@ -29,12 +29,12 @@ export default function Home() {
             workforce intelligence to real-world agentic applications.
             <br />
             <br />
-            I&apos;m also building{" "}
+            This is{" "}
             <span className="font-semibold text-white">
-              100 Days • 100 AI Agents
+              100 AI Agents
             </span>
-            , a hands-on journey exploring how agentic AI can solve real-world
-            problems across industries.
+            , a hands-on portfolio exploring how agentic AI can solve
+            real-world problems across industries.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4">
@@ -115,7 +115,7 @@ export default function Home() {
             <div className="p-8 lg:p-10">
               <div className="flex flex-wrap gap-2">
                 <span className="rounded-full bg-blue-500/20 px-3 py-1 text-xs font-medium text-blue-400">
-                  Day 006
+                  Agent 006
                 </span>
 
                 <span className="rounded-full bg-purple-500/20 px-3 py-1 text-xs font-medium text-purple-300">
@@ -304,7 +304,7 @@ export default function Home() {
       >
         <div className="mb-12">
           <p className="text-sm uppercase tracking-widest text-blue-400">
-            100 Days • 100 AI Agents
+            100 AI Agents
           </p>
 
           <h2 className="mt-3 text-5xl font-black">
@@ -336,7 +336,7 @@ export default function Home() {
               </div>
 
               <div className="mb-2 text-sm text-zinc-500">
-                Day {agent.day}
+                Agent {agent.day}
               </div>
 
               <h3 className="text-2xl font-bold">{agent.title}</h3>
