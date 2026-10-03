@@ -41,6 +41,8 @@ const socialLinks = [
     label: "LinkedIn",
     href: "https://www.linkedin.com/in/shreya-chakrabarti/",
   },
+  // Drop your resume into /public as resume.pdf, or swap in a hosted link
+  { label: "Resume", href: "/resume.pdf" },
 ];
 
 const featuredCapabilities = [
